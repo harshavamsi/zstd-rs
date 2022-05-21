@@ -1,0 +1,5 @@
+project: zstd-rs
+target: decode
+
+cmds:
+  - cmd: /decode
